@@ -24,6 +24,7 @@ FaceRecogApp is a robust Android application designed to detect and recognize fa
 
 
 <video src="https://github.com/user-attachments/assets/8189e777-964a-450f-b780-9ddd9b8a6cb5" controls width="300"></video>
+<img src="https://github.com/user-attachments/assets/3b00cbe5-7793-45ee-a4fc-6b9fd1ff6865" alt="Screenshot 2" width="300"/>
 
 
 ## Installation
