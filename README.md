@@ -16,15 +16,11 @@ FaceRecogApp is a robust Android application designed to detect and recognize fa
 - **Vector Storage:** Saves face vectors to Firebase for easy retrieval and recognition.
 - **Social Media Integration:** Stores and displays user details including YouTube, Twitter, etc.
 - **User Interaction:** Allows users to click on recognized faces to redirect to their social media accounts.
-- **Community Sharing:** Shares unidentified faces within the app's social platform for community assistance.
 - **High Accuracy:** Provides highly accurate face recognition performance.
 
 ## Screenshots
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/31460247-b0ff-4729-9802-536b60d5c707" alt="Screenshot 2" width="300"/>
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/e9a0ff97-ff24-4a5e-93c7-848befe413db" alt="Screenshot 2" width="300"/>
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/6ea5d9d4-50a6-4e83-acc8-9c38d55b8941" alt="Screenshot 4" width="300"/>
-<img src="https://github.com/chris2y/Face-Recognition-and-Detection-Android-App-Mobile-Face-Net-and-MTCNN/assets/105220772/dadd78c1-45b8-44b2-acca-d98ef2cdfeec" alt="Screenshot 3" width="300"/>
-
+<img src="https://github.com/user-attachments/assets/d1413c2e-8c26-44ec-ac4c-a1f0f92409f0" alt="Screenshot 2" width="300"/>
+<img src="!https://github.com/user-attachments/assets/10666c19-b602-46a5-8aed-49843349d822" alt="Screenshot 2" width="300"/>
 
 ## Installation
 
@@ -33,7 +29,7 @@ To run this project, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/chris2y/FaceRecogApp.git
+    git clone https://github.com/chris2y/Face-Recognition-Mobile-Facenet-and-MTCNN.git
     ```
 
 2. **Open the project in Android Studio:**
