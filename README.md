@@ -8,7 +8,7 @@
 
 ## Description
 
-FaceRecogApp is a robust Android application designed to detect and recognize faces using MobileFaceNet and MTCNN. It leverages Firebase for storing user details and vectors representing faces. When a face is detected, the app retrieves and displays the associated social media profiles, allowing users to click and redirect to these profiles. If a face is not recognized, the app provides a social sharing feature within the app to seek help from other users.
+FaceRecogApp is a robust Android application designed to detect and recognize faces using MobileFaceNet and MTCNN. It leverages Firebase for storing user details and vectors representing faces. When a face is detected, the app retrieves and displays the associated social media profiles, allowing users to click and redirect to these profiles.
 
 ## Features
 
