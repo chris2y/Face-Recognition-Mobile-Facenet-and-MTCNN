@@ -52,7 +52,6 @@ To run this project, follow these steps:
 - **Detect Faces:** Point the camera at a face to detect and recognize it.
 - **View Social Media Profiles:** Click on recognized faces to view their associated social media profiles.
 - **Store New Faces:** Add new faces by saving their details and vectors in Firebase.
-- **Share Unrecognized Faces:** Share unrecognized faces in the app's social platform to get help from other users.
 - **Navigate to Profiles:** Click on social media icons to redirect to the respective profiles.
 
 ## Contributing
