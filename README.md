@@ -19,8 +19,8 @@ FaceRecogApp is a robust Android application designed to detect and recognize fa
 - **High Accuracy:** Provides highly accurate face recognition performance.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/d1413c2e-8c26-44ec-ac4c-a1f0f92409f0" alt="Screenshot 2" width="300"/>
-<img src="!https://github.com/user-attachments/assets/10666c19-b602-46a5-8aed-49843349d822" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/11054566-82ef-4e8e-a335-02d99daa2ab6" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/10666c19-b602-46a5-8aed-49843349d822" alt="Screenshot 2" width="300"/>
 
 ## Installation
 
