@@ -39,8 +39,6 @@ public class SplashScreen extends AppCompatActivity {
             }, 2000);
 
         }
-
-
     }
     private boolean isUserAuthenticated() {
         authToken = sharedPreferences.getString("authToken", null);

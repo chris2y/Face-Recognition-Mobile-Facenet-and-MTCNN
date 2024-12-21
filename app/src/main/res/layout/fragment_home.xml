@@ -28,12 +28,23 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Face Recognition"
+                android:text="Welcome"
                 android:textStyle="bold"
+                android:fontFamily="@font/montserrat_regular"
                 android:textColor="@color/dark_blue"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="20dp"
-                android:textSize="42sp"/>
+                android:textSize="22sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Face Recognition"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_semi_bold"
+                android:textColor="@color/dark_blue"
+                android:layout_marginLeft="20dp"
+                android:textSize="40sp"/>
 
             <FrameLayout
                 android:layout_width="400dp"
@@ -68,6 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/btn_recognize"
+                android:fontFamily="@font/montserrat_regular"
                 android:layout_alignParentBottom="true"
                 android:text="Upload Image"
                 android:layout_marginBottom="10dp" />
@@ -112,6 +124,7 @@
                                 android:layout_marginTop="10dp"
                                 android:layout_marginBottom="10dp"
                                 android:text="Unknown Person"
+                                android:fontFamily="@font/montserrat_semi_bold"
                                 android:visibility="gone"
                                 android:textColor="@android:color/holo_red_light"
                                 android:textStyle="bold"
@@ -122,6 +135,7 @@
                                 android:layout_height="wrap_content"
                                 android:text="1. Face must be fully visible"
                                 android:textStyle="bold"
+                                android:fontFamily="@font/montserrat_regular"
                                 android:textSize="16sp"
                                 android:paddingBottom="8dp" />
 
@@ -130,12 +144,14 @@
                                 android:layout_height="wrap_content"
                                 android:text="2. Image must not contain more than one face"
                                 android:textStyle="bold"
+                                android:fontFamily="@font/montserrat_regular"
                                 android:textSize="16sp"
                                 android:paddingBottom="8dp" />
 
                             <TextView
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
+                                android:fontFamily="@font/montserrat_regular"
                                 android:text="3. The lower the score, the more accurate"
                                 android:textStyle="bold"
                                 android:textSize="16sp"
@@ -156,6 +172,7 @@
                         </LinearLayout>
 
                     </androidx.cardview.widget.CardView>
+
                 </LinearLayout>
 
                 <LinearLayout
@@ -177,6 +194,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textSize="9pt"
+                            android:fontFamily="@font/montserrat_regular"
                             android:text="Name: "
                             />
 
@@ -184,6 +202,7 @@
                             android:id="@+id/textView"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_regular"
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="5dp"
                             android:text=""
@@ -203,6 +222,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textSize="9pt"
+                            android:fontFamily="@font/montserrat_regular"
                             android:text="Job: "
                             />
 
@@ -210,6 +230,7 @@
                             android:id="@+id/jobTextView"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
+                            android:fontFamily="@font/montserrat_regular"
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="5dp"
                             android:text=""
@@ -228,6 +249,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textSize="9pt"
+                            android:fontFamily="@font/montserrat_regular"
                             android:text="Similarity: "
                             />
 
@@ -238,6 +260,7 @@
                             android:layout_gravity="center_horizontal"
                             android:layout_marginTop="5dp"
                             android:text=""
+                            android:fontFamily="@font/montserrat_regular"
                             android:textSize="10pt" />
 
                     </LinearLayout>
